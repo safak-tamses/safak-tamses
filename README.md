@@ -1,4 +1,4 @@
-<h1 align="center"># Hello World! 🌟 I'm Şafak Tamses I'm Şafak Tamses</h1>
+<h1 align="center"># Hello World! 🌟 I'm Şafak Tamses</h1>
 <h3 align="center">- Java Spring Backend Developer -</h3>
 
 - 👨‍💻 All of my projects are available at [x.com](x.com)
