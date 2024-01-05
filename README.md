@@ -3,7 +3,7 @@
 <h1 align="center"># Hello World! 🌟 I'm Şafak Tamses</h1>
 <h3 align="center">- Java Spring Backend Developer -</h3>
 
-<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" style="margin-right: 20px;">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" style="margin-right: 20px;">
 
 - 👨‍💻 All of my projects are available at [x.com](x.com)
 
