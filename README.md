@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" style="margin-right: 20px;">
 
-- 👨‍💻 All of my projects are available at [http://safaktamses.com/](safaktamses.com)
+- 👨‍💻 All of my projects are available at [web site](https://safaktamses.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@safak.tamses](https://medium.com/@safak.tamses)
 
