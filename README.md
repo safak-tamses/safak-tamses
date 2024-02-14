@@ -5,7 +5,7 @@
 
 
 <h1 align="center"># Hello World! 🌟 I'm Şafak Tamses</h1>
-<h3 align="center">- Java Spring Backend Developer -</h3>
+<h3 align="center">- Web Developer -</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" style="margin-right: 20px;">
 
