@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnnajichimuanya.hashnode.dev%2Fjava-for-beginners&psig=AOvVaw06_xSu0Kdsf7eT8RQqBVaP&ust=1708022331829000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD-8pS9q4QDFQAAAAAdAAAAABAE
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif
 )](https://safaktamses.com)
 <h1 align="center"># Hello World! 🌟 I'm Şafak Tamses</h1>
 <h3 align="center">- Java Spring Backend Developer -</h3>
