@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D22AQFa4DJ26aklMQ/feedshare-shrink_2048_1536/0/1701608772781?e=1706140800&v=beta&t=-SBEW0AoHhEBm1L6WiJGj3gJfXh0d5nRRcytiwI5tCU
-)](https://x.com)
+)](https://safaktamses.com)
 <h1 align="center"># Hello World! 🌟 I'm Şafak Tamses</h1>
 <h3 align="center">- Java Spring Backend Developer -</h3>
 
